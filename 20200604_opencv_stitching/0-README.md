@@ -6,6 +6,8 @@ ops：扒了一堆例子，结果还是opencv 官方文档强
 
 官方例子：https://docs.opencv.org/4.0.0/d9/dd8/samples_2cpp_2stitching_detailed_8cpp-example.html
 
+opencv手册：https://docs.opencv.org/4.0.0/examples.html
+
 若要用surf还是额外装：https://github.com/opencv/opencv_contrib/releases?after=4.0.0-beta
 
 本机环境：opencv 4.0 ， 暂时先用orb试试效果
