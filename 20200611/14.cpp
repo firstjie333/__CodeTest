@@ -15,6 +15,11 @@
     注意：题目要求是矩形，而不是圆形或三角形等，矩形可能是长方形或者正方形。点列坐标在main函数中给定。
 */
 
+
+// reference 1 :https://blog.csdn.net/random_repick/article/details/103574844
+// reference 2: https://zhuanlan.zhihu.com/p/97855964
+
+
 void rotatePoint(double& x, double& y, double angle) 
 {
   double a = x * cos(angle) - y * sin(angle);
