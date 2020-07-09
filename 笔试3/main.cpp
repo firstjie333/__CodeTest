@@ -7,6 +7,11 @@
 #include <set>
 #include <algorithm>
 
+//ABC倒水问题
+//要求： 或满  或空 
+// 求：A为空的时候，C的水量可能值，按大小排序
+
+
 
 //　容量
 int a,b,c;
